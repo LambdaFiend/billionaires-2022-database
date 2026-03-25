@@ -1,6 +1,6 @@
 Dev Team:
   Fábio E. R. Semedo            https://github.com/FabioSemedo
-  Gabriel A. R. A. Carlos       https://github.com/LambdaFiend
+  Lambda Fiend                  https://github.com/LambdaFiend
   Gonçalo C. F. Branquinho Mota https://github.com/GoncaloBranquinho
   Rafael A. Costa               https://github.com/raciacd
 
